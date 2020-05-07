@@ -1,2 +1,5 @@
-def featureA():
+def featureB():
+    pass
+
+def featureA+B():
     pass
